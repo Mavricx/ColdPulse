@@ -4,6 +4,11 @@
 
 The Central AI System (CAS) is an advanced AI-driven solution designed to optimize warehouse management, supply chain logistics, and inventory control for perishable food items. By leveraging AI, IoT, and real-time data analytics, the system ensures transparency, reduces artificial shortages, and enhances decision-making efficiency.
 
+![Flowchart of Central AI System](flowchart.jpg)
+
+The following flowchart illustrates the workflow of the Central AI System, showcasing how AI, IoT, and real-time data analytics integrate to optimize warehouse management and supply chain logistics.
+
+
 ## 📌 Key Capabilities
 
 ### 1️⃣ Centralized Data Management
